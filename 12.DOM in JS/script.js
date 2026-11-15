@@ -18,6 +18,7 @@ console.log(boxes);
 var box1=document.getElementById('box-1');
 box1.innerHTML="<h2>kruthi</h2>"
 box1.innerText="bhuvana kruthi"
+//test commit - san39090 to bhuvana1907
 
 document.getElementById('box-1').innerText="Bhuvana Kruthi";
 document.getElementById('p').innerText="kruthi";
