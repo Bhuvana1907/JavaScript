@@ -44,3 +44,4 @@ newPara.innerText="This is our new paragraph";
  cont.appendChild(newPara);
  newPara.classList.add('box');
  newPara.classList.add('circle');
+ 
